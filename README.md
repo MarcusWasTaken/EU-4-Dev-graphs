@@ -1,6 +1,8 @@
 # EU-4-Dev-graphs
 A simple tool for displaying costs for embrancing an institution for the game Europa Universalis IV.
 
+## NOTE: This project is a work in progress, and merely a prototype
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
